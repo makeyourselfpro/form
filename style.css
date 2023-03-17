@@ -1,0 +1,22 @@
+div{
+  border: 1px solid black;
+}
+.container-fluid{
+  height: 330px;
+  padding: 10px;
+}
+.container-fluid>div{
+  height: 100%;
+}
+input,p{
+  width: 800px;
+  margin-bottom: 5px;
+
+}
+button{
+  width: 100px;
+}
+form{
+  border: 5px solid gray;
+  padding: 10px;
+}
